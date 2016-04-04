@@ -8,7 +8,7 @@ Repository for .zshrc
 ## Install
 
 ```
-$ ./setup.sh
+$ git@github.com:hashijun/zshrc.git; cd zshrc; ./setup.sh
 ```
 
 ## License
