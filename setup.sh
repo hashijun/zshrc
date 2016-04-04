@@ -20,4 +20,3 @@ if [ -f $HOME/$ZSHRC -o -d $HOME/$ZSHRC ]; then
 fi
 
 ln -Fisv "$PWD/$ZSHRC" $HOME
-}
